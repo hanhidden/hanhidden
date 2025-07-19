@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm haneen abu el-hawa -  @hanhidden</h1>
-<h3 align="center">I'm currently a 4th year computer science student</h3>
+<h3 align="center"> computer science garduate</h3>
 
 - 📫 contact me **haneenshadi819@gmail.com**
 
