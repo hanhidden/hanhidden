@@ -1,11 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm haneen abu el-hawa -  @hanhidden</h1>
-<h3 align="center"> computer science garduate</h3>
-
-- 📫 contact me **haneenshadi819@gmail.com**
-
-
-<h1 align="center">👋 Hi, I'm Haneen!</h1>
+<h1 align="center">👋 Hi, I'm Haneen Abu El-hawa!</h1>
 
 <p align="center">
 🎓 Computer Science Graduate 
