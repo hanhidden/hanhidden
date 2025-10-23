@@ -8,17 +8,23 @@
 <h1 align="center">👋 Hi, I'm Haneen!</h1>
 
 <p align="center">
-🎓 Computer Science Graduate | 💻 Full-Stack Developer | 🌱 Passionate about Frontend, UI/UX, and AI integration  
+🎓 Computer Science Graduate 
 </p>
 
 ---
 
-### 🚀 About Me
 
-- 👩‍💻 I love building interactive web & mobile apps with modern technologies.  
-- 🌿 Currently learning and building with **React Native** & **Spring Boot**.  
-- 💡 Interested in **Frontend Development**, **Cybersecurity**, and **Data Science**.  
-- ⚡ Fun fact: I enjoy designing in **Blender** and exploring creative coding ideas.  
+
+
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="mailto:haneenshadi819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/haneen-abuelhawa-840145308"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://hanhidden.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
 
 ---
 
@@ -81,26 +87,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hanhidden&show_icons=true&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhidden&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="mailto:haneenshadi819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/haneen-shadi-abu-el-hawa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://hanhidden.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
 
 ⭐ *"Turning ideas into reality through creativity and code."*
 
