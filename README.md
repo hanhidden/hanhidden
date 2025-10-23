@@ -2,7 +2,6 @@
 
 <p align="center">
 🎓 Computer Science Graduate  
-💻 Passionate about Frontend, UI/UX, and Full-Stack Development  
 </p>
 
 ---
